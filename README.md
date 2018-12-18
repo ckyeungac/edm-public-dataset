@@ -18,6 +18,9 @@ This repository lists public datasets used in educational data mining community.
 - [Physics Playground Log Data ](https://upenn.app.box.com/s/4ocucflaehd7c51lbxx96heikcjtcwz1) -- Physics Playground log data capture comprehensive information on student actions and game screen changes as a time series with millisecond precision. ([paper](http://educationaldatamining.org/files/conferences/EDM2018/papers/EDM2018_paper_39.pdf))
 
 ## Others
+### DataShop
+- [DataShop](https://pslcdatashop.web.cmu.edu/index.jsp?datasets=public) -- The world's largest repository of learning interaction data.
+
 ### freeCodeCamp
 - [Gitter History](https://github.com/freeCodeCamp/open-data/tree/master/gitter-history) -- An open dataset of all chat activity in Free Code Camp's Gitter.im chatrooms
 - [Gitter Analytics](https://github.com/freeCodeCamp/open-data/tree/master/gitter-analytics) -- Efforts by some freeCodeCamp students focused on analyses of the activity on Gitter. (Number of help requests during learning.)
