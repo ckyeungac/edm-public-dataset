@@ -15,3 +15,9 @@ This repository lists the common public dataset used in educational data mining 
 
 ## College Scorecard
 -  [College Scorecard data](https://collegescorecard.ed.gov/data/) -- The data that appear on the College Scorecard, as well as supporting data on student completion, debt and repayment, earnings, and more. The files include data from 1996 through 2017 for all undergraduate degree-granting institutions of higher education.
+
+## Others
+- [OLI Engineering Statics - Fall 2011](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507) -- This dataset is from a college-level engineering statics course with 189,297 trials, 333 students and 1,223 exercises tags.
+
+## Synthetic
+- [Deep Knowledge Tracing](https://github.com/chrispiech/DeepKnowledgeTracing/tree/master/data/synthetic) -- This dataset simulates 2000 virtual students answering 50 exercises using the item response theory model. 
