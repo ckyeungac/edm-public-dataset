@@ -4,7 +4,7 @@ This repository lists the common public dataset used in educational data mining 
 ----
 
 ## Affect-related
-- [Sensor-Free Affect Detectors Dataset](https://sites.google.com/site/abotelho777/research/studying-affect-dynamics-and-chronometry-using-sensor-free-detectors) -- This dataset is originally used to develop sensor-free automated detectors of student affect.
+- [Sensor-Free Affect Detectors Dataset](https://sites.google.com/site/abotelho777/research/studying-affect-dynamics-and-chronometry-using-sensor-free-detectors) -- This dataset is originally used to develop sensor-free automated detectors of student affect. ([paper](http://educationaldatamining.org/files/conferences/EDM2018/papers/EDM2018_paper_98.pdf))
 
 ## Knowledge Tracing
 - [ASSISTments 2009](https://sites.google.com/site/assistmentsdata/home/assistment-2009-2010-data) -- This dataset has been widely applied in student profile modeling, e.g., _student performance prediction_. 
