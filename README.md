@@ -1,5 +1,5 @@
 # edm-public-dataset
-This repository lists the common public dataset used in educational data mining community.
+This repository lists public datasets used in educational data mining community.
 
 ----
 
@@ -11,7 +11,8 @@ This repository lists the common public dataset used in educational data mining 
 - [ASSISTments 2012](https://sites.google.com/site/assistmentsdata/home/2012-13-school-data-with-affect) -- This dataset is similar to ASSISTment 2009, but augmented with the predicted affective state of a student. This includes _frustration_, _confusion_, _engagment_ and _boredom_.
 - [ASSISTments 2015](https://sites.google.com/site/assistmentsdata/home/2015-assistments-skill-builder-data) -- This dataset is the simplest dataset that only contains the correct tag of an attempt.
 - [OLI Engineering Statics - Fall 2011](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507) -- This dataset is from a college-level engineering statics course with 189,297 trials, 333 students and 1,223 exercises tags.
-- [Synthetic Data from DKT](https://github.com/chrispiech/DeepKnowledgeTracing/tree/master/data/synthetic) -- This dataset simulates 2000 virtual students answering 50 exercises using the item response theory model. 
+- [Synthetic Data from DKT](https://github.com/chrispiech/DeepKnowledgeTracing/tree/master/data/synthetic) -- This dataset simulates 2000 virtual students answering 50 exercises using the item response theory model. ([paper](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf))
+- [Junyi Academy Math Practicing Log](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=1198) -- Junyi Academy is an e-learning platform, like Khan Academy, where students can practice exercises on various subjects including Mathematics, Biology, Computer Science. Like ASSISTments, the dataset contains attempt, hint taken, time spent, and skill tag information for an exercise.
 
 ## Quitting the Game
 - [Physics Playground Log Data ](https://upenn.app.box.com/s/4ocucflaehd7c51lbxx96heikcjtcwz1) -- Physics Playground log data capture comprehensive information on student actions and game screen changes as a time series with millisecond precision. ([paper](http://educationaldatamining.org/files/conferences/EDM2018/papers/EDM2018_paper_39.pdf))
