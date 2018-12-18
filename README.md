@@ -13,7 +13,7 @@ This repository lists the common public dataset used in educational data mining 
 - [OLI Engineering Statics - Fall 2011](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507) -- This dataset is from a college-level engineering statics course with 189,297 trials, 333 students and 1,223 exercises tags.
 - [Synthetic Data from DKT](https://github.com/chrispiech/DeepKnowledgeTracing/tree/master/data/synthetic) -- This dataset simulates 2000 virtual students answering 50 exercises using the item response theory model. 
 
-# Quitting the Game
+## Quitting the Game
 - [Physics Playground Log Data ](https://upenn.app.box.com/s/4ocucflaehd7c51lbxx96heikcjtcwz1) -- Physics Playground log data capture comprehensive information on student actions and game screen changes as a time series with millisecond precision. ([paper](http://educationaldatamining.org/files/conferences/EDM2018/papers/EDM2018_paper_39.pdf))
 
 ## Others
